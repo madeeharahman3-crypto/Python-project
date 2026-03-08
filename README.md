@@ -1,38 +1,33 @@
-# Computational Music and Data Projects
+# The Stochastic Architect
 
-This repository contains a set of small projects where I explored the intersection of mathematics, programming, and music. I built these projects while experimenting with Python and learning how algorithms and data analysis can be used to understand and generate musical patterns.
+The Stochastic Architect is a collection of computational experiments exploring how mathematical structures and algorithms can interact with music. 
 
-I have always been interested in how structured systems such as mathematics can produce creative results. Music is full of patterns, rhythms, and structures, and programming makes it possible to study and recreate these ideas computationally. These projects represent some of my early experiments in that direction.
+Through these projects, I experimented with data analysis, generative systems, and audio visualization to better understand how patterns in music can be modeled and recreated using code.
 
 ## Projects
 
 ### AI Music Visualizer
-This project analyzes an audio file and transforms sound into visual patterns. Using signal processing techniques, the program extracts features such as frequency intensity and beat structure and converts them into dynamic visualizations.
+Transforms audio signals into dynamic visual representations using frequency and beat analysis.
+![AI Music Visualizer](audio_waveform.jpg)
 
 ### Music Data Dashboard
-In this project I explored music datasets using Python. By analyzing different audio features and visualizing them with charts, I tried to observe patterns in musical structure and listener trends.
+Analyzes musical datasets and visualizes patterns using Python-based data analysis tools.
+![Music Data Dashboard](correlation_matrix.jpg)
 
 ### Algorithmic Melody Generator
-This program generates simple melodies using rule-based algorithms. It demonstrates how mathematical patterns and programming logic can be used to create musical sequences.
+Generates melodies algorithmically using mathematical patterns and rule-based systems.
+![Algorithmic Melody Generator](melody_generator.jpg)
 
 ## Technologies Used
-
-Python  
-NumPy  
-Pandas  
-Matplotlib  
-Librosa  
+* **Python**
+* **NumPy**
+* **Pandas**
+* **Matplotlib**
+* **Librosa**
 
 ## Running the Project
-
-Install required libraries:
-
+```bash
 pip install -r requirements.txt
-
-Run the main program:
-
-python main.py
-
+streamlit run app.py
 ## Author
-
 Madeeha Rahman
