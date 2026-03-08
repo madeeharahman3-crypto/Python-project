@@ -2,14 +2,14 @@
 
 > "Precision without a pulse is just noise."
 
-For years I lived a double life: a National Math Olympiad finalist governed by logic and a creator obsessed with the movement of sound. This repository is the bridge. It is a computational exploration of how mathematical rigor can engineer raw emotional resonance.
+For years I lived a double life: a National Math Olympiad finalist governed by logic and a creator obsessed with the movement of sound. This repository is the bridge. It is a computational exploration of how mathematical rigor can engineer raw emotional resonance. Through this project, I demonstrated that **subjective musical aesthetics** can be modeled and generated using the same stochastic principles found in advanced physics and structural engineering.
 
 ## THE PROJECTS
 
 ### PROJECT I: MUSIC DATA ANALYTICS
 **Objective:** Analyzing the mathematical correlation between acoustic entropy and commercial success.
-*   **Methodology:** I used Pearson Correlation Matrices and Bivariate Analysis to identify predictive patterns between normalized energy metrics and popularity indices.
-*   **Key Insight:** Discovered a strong linear correlation (r ≈ 0.78) between high energy coefficients and commercial performance, proving that "vibe" can be quantified.
+*   **Methodology:** I utilized Pearson Correlation Matrices and Bivariate Analysis to identify predictive patterns between normalized energy metrics and popularity indices.
+*   **Key Insight:** Discovered a strong linear correlation (r ≈ 0.78) between high energy coefficients and commercial performance, proving that perceptual characteristics can be quantified.
 ![Music Data Dashboard](correlation_matrix.jpg)
 
 ### PROJECT II: STOCHASTIC MELODIC COMPOSITION
