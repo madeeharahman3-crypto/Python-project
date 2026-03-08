@@ -29,6 +29,3 @@ Generates melodies algorithmically using mathematical patterns and rule-based sy
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
-## Author
-Madeeha Rahman
