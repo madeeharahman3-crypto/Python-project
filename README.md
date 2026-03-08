@@ -2,30 +2,33 @@
 
 > "Precision without a pulse is just noise."
 
-For years, I lived a double life: a National Math Olympiad finalist governed by logic, and a creator obsessed with the movement of sound. This repository is the bridge. It is a technical exploration of how mathematical rigor can engineer raw emotional resonance.
+For years I lived a double life: a National Math Olympiad finalist governed by logic and a creator obsessed with the movement of sound. This repository is the bridge. It is a computational exploration of how mathematical rigor can engineer raw emotional resonance.
 
 ## THE PROJECTS
 
-### MUSIC DATA DASHBOARD
-**The architecture of resonance.**
-Favorite melodies aren't just "vibes"—they are intricate patterns of probability. This dashboard analyzes musical datasets to visualize the hidden correlations and "structural integrity" within sound.
+### PROJECT I: MUSIC DATA ANALYTICS
+**Objective:** Analyzing the mathematical correlation between acoustic entropy and commercial success.
+*   **Methodology:** I utilized Pearson Correlation Matrices and Bivariate Analysis to identify predictive patterns between normalized energy metrics and popularity indices.
+*   **Key Insight:** Discovered a strong linear correlation (r ≈ 0.78) between high energy coefficients and commercial performance, proving that "vibe" can be quantified.
 ![Music Data Dashboard](correlation_matrix.jpg)
 
-### ALGORITHMIC MELODY GENERATOR
-**Stochastic logic vs. Human pulse.**
-The real challenge of this project was the "Human Debug"—realizing that a melody can be mathematically perfect but emotionally dead. This generator uses rule-based systems and `NumPy` to explore the friction where logic meets the soul of a beat.
+### PROJECT II: STOCHASTIC MELODIC COMPOSITION
+**Objective:** Engineering rule-based generative systems with probabilistic logic.
+*   **Methodology:** I implemented a First-Order Markov Chain with a 70-20-10 probability distribution to mirror natural Western tonal contours.
+*   **Human Debug:** I enforced harmonic closure by coding a forced tonic resolution because I realized that mathematical randomness still needs to satisfy human perceptual expectations.
 ![Algorithmic Melody Generator](melody_generator.jpg)
 
-### AI MUSIC VISUALIZER
-**Translating frequency into feeling.** 
-Most people hear the hook. I’m obsessed with how a sub-bass occupies physical space. This tool uses `Librosa` for frequency and beat analysis to transform invisible audio signals into dynamic visual structures.
+### PROJECT III: COMPUTATIONAL AUDIO ANALYSIS
+**Objective:** Visualizing time-series audio data through Digital Signal Processing (DSP).
+*   **Methodology:** I leveraged the Librosa library for amplitude envelope extraction and RMS energy calculation to map raw PCM audio data to visual coordinates.
+*   **Feature Extraction:** The system calculates zero-crossing rates to differentiate between percussive noise and tonal pitch.
 ![AI Music Visualizer](audio_waveform.jpg)
 
-## TECHNOLOGIES
-* **Python** (The Core)
-* **NumPy & Pandas** (Data Logic)
-* **Matplotlib & Librosa** (Acoustic Visualization)
-* **Mido** (MIDI Architecture)
+## TECHNICAL ARCHITECTURE
+*   **Data Logic:** NumPy and Pandas 
+*   **Generative Engine:** Mido and Random 
+*   **Signal Processing:** Librosa and Matplotlib 
+*   **Interface:** Streamlit 
 
 ## RUNNING THE PROJECT
 ```bash
