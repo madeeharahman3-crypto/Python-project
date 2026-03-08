@@ -6,11 +6,6 @@ For years, I lived a double life: a National Math Olympiad finalist governed by 
 
 ## THE PROJECTS
 
-### AI MUSIC VISUALIZER
-**Translating frequency into feeling.** 
-Most people hear the hook; I’m obsessed with how a sub-bass occupies physical space. This tool uses `Librosa` for frequency and beat analysis to transform invisible audio signals into dynamic visual structures.
-![AI Music Visualizer](audio_waveform.jpg)
-
 ### MUSIC DATA DASHBOARD
 **The architecture of resonance.**
 Favorite melodies aren't just "vibes"—they are intricate patterns of probability. This dashboard analyzes musical datasets to visualize the hidden correlations and "structural integrity" within sound.
@@ -20,6 +15,11 @@ Favorite melodies aren't just "vibes"—they are intricate patterns of probabili
 **Stochastic logic vs. Human pulse.**
 The real challenge of this project was the "Human Debug"—realizing that a melody can be mathematically perfect but emotionally dead. This generator uses rule-based systems and `NumPy` to explore the friction where logic meets the soul of a beat.
 ![Algorithmic Melody Generator](melody_generator.jpg)
+
+### AI MUSIC VISUALIZER
+**Translating frequency into feeling.** 
+Most people hear the hook. I’m obsessed with how a sub-bass occupies physical space. This tool uses `Librosa` for frequency and beat analysis to transform invisible audio signals into dynamic visual structures.
+![AI Music Visualizer](audio_waveform.jpg)
 
 ## TECHNOLOGIES
 * **Python** (The Core)
